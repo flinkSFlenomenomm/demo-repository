@@ -2,7 +2,7 @@
 
 ![Proof HTML](https://github.com/FLiOSboT/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Willkommen im Demo-Repository Ihrer Organisation
+Dieses Code-Repository (oder „Repo“) soll die besten Funktionen von GitHub mit möglichst wenig Ablenkung demonstrieren.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+Das Repository enthält eine `index.html` Datei (damit eine Webseite gerendert werden kann), zwei GitHub Actions-Workflows und eine CSS-Stylesheet-Abhängigkeit.
